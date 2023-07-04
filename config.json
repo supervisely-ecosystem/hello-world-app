@@ -4,6 +4,7 @@
   "main_script": "src/main.py",
   "headless": true,
   "name": "Hello World!",
+  "docker_image": "supervisely/hello-world-app:1.0.0",
   "description": "Demonstrates how to turn your python script into Supervisely App",
   "categories": ["development"],
   "icon": "https://user-images.githubusercontent.com/12828725/182186256-5ee663ad-25c7-4a62-9af1-fbfdca715b57.png",
