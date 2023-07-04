@@ -1,8 +1,6 @@
+supervisely==6.72.56
 # used to print cool text to stdout
 art==5.7
 
 # my favorite code formatter
 black
-
-python-dotenv
-supervisely
